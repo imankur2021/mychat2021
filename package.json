@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/irevenko/ArtichokeChat.git"
+        "url": ""
     },
     "keywords": [
         "chat",
@@ -18,9 +18,9 @@
     "author": "Ankur",
     "license": "",
     "bugs": {
-        "url": "https://github.com/irevenko/ArtichokeChat/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/irevenko/ArtichokeChat#readme",
+    "homepage": "",
     "dependencies": {
         "express": "^4.17.1",
         "socket.io": "^2.3.0"
